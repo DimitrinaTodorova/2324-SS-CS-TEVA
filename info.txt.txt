@@ -1,0 +1,5 @@
+For the creation of the appropriate conda environment, use the requirements.txt file in this folder.
+You can run the commands below in the terminal:
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
